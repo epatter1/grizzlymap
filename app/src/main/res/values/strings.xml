@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GrizzlyMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnAreaMap">area map button</string>
+    <string name="btnCampusMap">campus map button</string>
+    <string name="btnAbout">about button</string>
+    <string name="app_title">Grizzly MApps</string>
+    <string name="title_activity_area_map">area_map</string>
+    <string name="title_activity_campus_map">sample</string>
+    <string name="title_activity_about">campus_activity</string>
+
+
+</resources>
