@@ -8,10 +8,6 @@
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\area_map.png",
-        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\area_map.png"
-    },
-    {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
@@ -20,16 +16,8 @@
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\area_map_button.png",
-        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\area_map_button.png"
-    },
-    {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_button.png",
-        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\about_button.png"
     },
     {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -48,8 +36,20 @@
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campusmap.png",
+        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\campusmap.png"
+    },
+    {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campusmapbutton.png",
+        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\campusmapbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\areamap.png",
+        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\areamap.png"
     },
     {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -72,6 +72,10 @@
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutbutton.png",
+        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\aboutbutton.png"
+    },
+    {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -88,16 +92,12 @@
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campus_map.png",
-        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\campus_map.png"
-    },
-    {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campus_map_button.png",
-        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\campus_map_button.png"
+        "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\areamapbutton.png",
+        "source": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\src\\main\\res\\drawable\\areamapbutton.png"
     },
     {
         "merged": "C:\\Users\\epatter1\\Desktop\\Android\\GrizzlyMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",

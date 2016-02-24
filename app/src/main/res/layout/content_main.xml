@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnAreaMap"
         android:layout_marginTop="142dp"
-        android:src="@drawable/area_map_button"
+        android:src="@drawable/areamapbutton"
         android:contentDescription="@string/btnAreaMap"
         android:layout_centerHorizontal="true" />
 
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnCampusMap"
-        android:src="@drawable/campus_map_button"
+        android:src="@drawable/campusmapbutton"
         android:layout_marginTop="25dp"
         android:layout_below="@+id/btnAreaMap"
         android:layout_centerHorizontal="true" />
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnAbout"
-        android:src="@drawable/about_button"
+        android:src="@drawable/aboutbutton"
         android:layout_marginTop="26dp"
         android:layout_below="@+id/btnCampusMap"
         android:layout_centerHorizontal="true" />
@@ -60,5 +60,5 @@
     <!--<ImageButton-->
         <!--android:layout_width="wrap_content"-->
         <!--android:layout_height="wrap_content"-->
-        <!--android:text="about_button..."/>-->
+        <!--android:text="aboutbutton..."/>-->
 </RelativeLayout>

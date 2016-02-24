@@ -2194,11 +2194,11 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020042;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020043;
         public static final int abc_textfield_search_material=0x7f020044;
-        public static final int about_button=0x7f020045;
-        public static final int area_map=0x7f020046;
-        public static final int area_map_button=0x7f020047;
-        public static final int campus_map=0x7f020048;
-        public static final int campus_map_button=0x7f020049;
+        public static final int aboutbutton=0x7f020045;
+        public static final int areamap=0x7f020046;
+        public static final int areamapbutton=0x7f020047;
+        public static final int campusmap=0x7f020048;
+        public static final int campusmapbutton=0x7f020049;
         public static final int design_fab_background=0x7f02004a;
         public static final int design_snackbar_background=0x7f02004b;
         public static final int notification_template_icon_bg=0x7f02004c;

@@ -25,7 +25,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="About"
         android:id="@+id/textView"
-        android:src="@drawable/about_button"
+        android:src="@drawable/aboutbutton"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="45dp"
