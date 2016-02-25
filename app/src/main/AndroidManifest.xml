@@ -22,7 +22,11 @@
             android:name=".Area_map"
             android:label="@string/title_activity_area_map"
             android:theme="@style/AppTheme.NoActionBar" />
+
         <activity android:name=".Campus_map"></activity>
+
+        <activity android:name=".AboutActivity"></activity>
+
     </application>
 
 </manifest>
